@@ -1,0 +1,7 @@
+D:\repos\Remoting\EmployShared\bin\Debug\EmployShared.dll.config
+D:\repos\Remoting\EmployShared\bin\Debug\EmployShared.dll
+D:\repos\Remoting\EmployShared\bin\Debug\EmployShared.pdb
+D:\repos\Remoting\EmployShared\obj\Debug\EmployShared.csproj.AssemblyReference.cache
+D:\repos\Remoting\EmployShared\obj\Debug\EmployShared.csproj.CoreCompileInputs.cache
+D:\repos\Remoting\EmployShared\obj\Debug\EmployShared.dll
+D:\repos\Remoting\EmployShared\obj\Debug\EmployShared.pdb

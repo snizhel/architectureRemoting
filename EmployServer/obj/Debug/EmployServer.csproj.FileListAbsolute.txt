@@ -1,0 +1,12 @@
+D:\repos\Remoting\EmployServer\bin\Debug\EmployServer.exe.config
+D:\repos\Remoting\EmployServer\bin\Debug\EmployServer.exe
+D:\repos\Remoting\EmployServer\bin\Debug\EmployServer.pdb
+D:\repos\Remoting\EmployServer\bin\Debug\EmployShared.dll
+D:\repos\Remoting\EmployServer\bin\Debug\EmployShared.pdb
+D:\repos\Remoting\EmployServer\bin\Debug\EmployShared.dll.config
+D:\repos\Remoting\EmployServer\obj\Debug\EmployServer.csproj.AssemblyReference.cache
+D:\repos\Remoting\EmployServer\obj\Debug\EmployServer.csproj.SuggestedBindingRedirects.cache
+D:\repos\Remoting\EmployServer\obj\Debug\EmployServer.csproj.CoreCompileInputs.cache
+D:\repos\Remoting\EmployServer\obj\Debug\EmployServer.csproj.CopyComplete
+D:\repos\Remoting\EmployServer\obj\Debug\EmployServer.exe
+D:\repos\Remoting\EmployServer\obj\Debug\EmployServer.pdb

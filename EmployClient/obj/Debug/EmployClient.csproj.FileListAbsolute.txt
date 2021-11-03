@@ -1,0 +1,15 @@
+D:\repos\Remoting\EmployClient\bin\Debug\EmployClient.exe.config
+D:\repos\Remoting\EmployClient\bin\Debug\EmployClient.exe
+D:\repos\Remoting\EmployClient\bin\Debug\EmployClient.pdb
+D:\repos\Remoting\EmployClient\bin\Debug\EmployShared.dll
+D:\repos\Remoting\EmployClient\bin\Debug\EmployShared.pdb
+D:\repos\Remoting\EmployClient\bin\Debug\EmployShared.dll.config
+D:\repos\Remoting\EmployClient\obj\Debug\EmployClient.csproj.AssemblyReference.cache
+D:\repos\Remoting\EmployClient\obj\Debug\EmployClient.csproj.SuggestedBindingRedirects.cache
+D:\repos\Remoting\EmployClient\obj\Debug\EmployClient.EmpForm.resources
+D:\repos\Remoting\EmployClient\obj\Debug\EmployClient.Properties.Resources.resources
+D:\repos\Remoting\EmployClient\obj\Debug\EmployClient.csproj.GenerateResource.cache
+D:\repos\Remoting\EmployClient\obj\Debug\EmployClient.csproj.CoreCompileInputs.cache
+D:\repos\Remoting\EmployClient\obj\Debug\EmployClient.csproj.CopyComplete
+D:\repos\Remoting\EmployClient\obj\Debug\EmployClient.exe
+D:\repos\Remoting\EmployClient\obj\Debug\EmployClient.pdb
